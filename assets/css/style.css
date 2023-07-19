@@ -1104,3 +1104,8 @@ section {
     padding-right: 20px 15px;
   }
 }
+#currentDateTime{
+  text-align: center;
+  vertical-align: top;
+  color:#000000;
+}
